@@ -6,10 +6,10 @@
 Selected Projects (See main GitHub):
 
 ### 🧬 Multi-omics Analysis Pipeline  
-https://github.com/gbm19950414-ux/multiomics-pipeline  
+https://github.com/gbm19950414-ux/Multi-omics-Analysis-Pipeline
 
 ### ⚙️ Research Automation Workflow  
-https://github.com/gbm19950414-ux/research-workflow  
+https://github.com/gbm19950414-ux/Research-Automation-Workflow
 
 ### 🧠 Hypothesis-driven Task Management System  
-https://github.com/gbm19950414-ux/phst-task-system  
+https://github.com/gbm19950414-ux/Hypothesis-driven-Task-Management-System
